@@ -1,1 +1,3 @@
 # Projet_de_Robot
+Ce projet nous a permis de mettre en evidence le travaile en equipe et d'autre part avoir une idee generale sur les test dans sa gllobalite et sur git et github 
+notre travail c'est articuler sur plusieurs points a savoir la creation des classes robots, arena, et fither et chaque classe nous a permis d'inplementer les fonctionnaliter propre a chaque presonage le plus important l'heritage et le polymorphisme
